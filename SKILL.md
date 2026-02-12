@@ -1,11 +1,9 @@
 ---
 name: cross-domain-synthesis
-description: Discover solutions by finding structural patterns shared between seemingly
-  unrelated domains. Apply Leonardo da Vinci's method of seeing connections where
-  others see separations.
+description: Discover solutions by finding structural patterns shared between seemingly unrelated domains. Apply Leonardo da Vinci's method of seeing connections where others see separations.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - cross-domain-synthesis
